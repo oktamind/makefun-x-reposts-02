@@ -18,6 +18,18 @@ that is all the program does. Score: 2 points per repost and per quote,
 deadline (Sat 28 Nov 2026 14:30 WIB). Keep the posts up and the account
 public until results are out (13 Dec 2026).
 
+## Pool posts answered (verified 26 Nov 2026 ~00:20 WIB via FxTwitter + Nitter mirrors — x.com itself 403s the cloud browser)
+
+1. https://x.com/makefunai/status/2125053632605196760 — Mike Houser, AOD: Age of Dragon (24 Nov 02:27 UTC)
+2. https://x.com/makefunai/status/2125246707512553850 — Optima Arch, Slotbound $1.33M week one (24 Nov 15:14 UTC)
+3. https://x.com/makefunai/status/2125247026728235268 — thread post under #2: best-game-01 winners (24 Nov 15:15 UTC)
+4. https://x.com/makefunai/status/2125609728088666351 — Tristan Debroise, Yet Another Incremental Game, $19,513 Steam (25 Nov 15:17 UTC)
+5. https://x.com/makefunai/status/2125610034209939567 — thread post under #4: best-game-01 winners (25 Nov 15:18 UTC)
+
+Field: 0 entries at last check. New @makefunai posts join the pool while
+entries are open — check again before the deadline (28 Nov 14:30 WIB) and
+re-submit the whole list if a new post is answered (up to 15).
+
 ## Play codes (any one passes per post)
 
 - makefun-honeybee-pumpkin-globe

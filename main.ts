@@ -45,7 +45,11 @@ if (posts.length === 0 || posts.length > 15) {
   process.exit(1);
 }
 for (const post of posts) {
-  if (typeof post !== "string" || !post.startsWith("https://x.com/")) {
+  if (
+    typeof post !== "string" ||
+    (!post.startsWith("https://x.com/") &&
+      !post.startsWith("https://twitter.com/"))
+  ) {
     console.error(`not an x.com post address: ${String(post)}`);
     process.exit(1);
   }
