@@ -6,6 +6,8 @@
 
 Quote or reply to make.fun's newest posts on X with posts of your own; places go by the reposts, quotes and likes your posts draw, and the top 50 share $500.
 
+This entry names 5 posts by @oktamind, each a quote of a different @makefunai pool post (Mike Houser, Optima Arch, best-game-01, Tristan Debroise, best-game-01), each carrying make.fun, @makefunai, and one of the four play codes.
+
 ## Run it
 
 ```sh
